@@ -1,0 +1,1 @@
+sorted(list, key=..., reverse=...)
